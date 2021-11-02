@@ -6,7 +6,7 @@
 #Main {
     width: 30%;
     height:760px;
-    background-color: rgb(61, 61, 177);
+    background-color:#4B543B ;
     display: block;
     float: left;
 }
@@ -14,14 +14,14 @@
     width: 70%;
     display: block;
     float: right;
-    background-color: lightblue;
+    background-color: #B57F50;
     height: 760px;
 }
 .img-perfil {
     width: 250px;
     height: 250px;
     border-radius: 50%;
-    border: solid 4px lightblue;
+    border: solid 4px #B4D2BA;
     margin-left: 90px;
     margin-top: 235px;
 }
@@ -32,11 +32,11 @@
     
 }
 .conteudo-esq p:hover {
-    color: lightblue;
+    color: #B4D2BA;
     text-decoration: none;
 }
 .conteudo-esq a:visited {
-    color: lightgreen;
+    color: #8ED081;
 }
 .icones {
     width: 50px;
@@ -45,7 +45,7 @@
 }
 .titulo {
     margin-top: 300px;
-   text-align: center;
+    text-align: center;
 }
 .conteudo-dir {
     margin-top: 50px;
